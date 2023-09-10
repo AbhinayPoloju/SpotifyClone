@@ -1,0 +1,2 @@
+# SpotifyClone
+Basic Spotify Application
